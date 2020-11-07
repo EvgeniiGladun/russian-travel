@@ -2,27 +2,13 @@
     font-family: Inter, Arial, Helvetica, sans-serif;
     position: relative;
     display: flex;
+    max-width: 1184px;
     min-height: 52px;
     padding: 28px 48px;
 }
 
-@media (max-width:1024px) {
-    .header {
-        font-family: Inter, Arial, Helvetica, sans-serif;
-        padding: 28px 48px;
-        }
-}
-
-@media (max-width:768px) {
-    .header {
-        font-family: Inter, Arial, Helvetica, sans-serif;
-        padding: 28px 24px;
-        }
-}
-
 @media (max-width:320px) {
     .header {
-        font-family: Inter, Arial, Helvetica, sans-serif;
         padding: 16px 16px;
         }
 }

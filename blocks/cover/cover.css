@@ -7,6 +7,6 @@
 @media (max-width:320px) {
     .cover {
         margin: 74px auto;
-        max-width: 1184px;
+        max-width: 100%;
     }
 }

@@ -8,3 +8,9 @@
 .place__paragraph:last-of-type {
     margin-bottom: 0;
 }
+
+@media (max-width:320px) {
+    .place__paragraph {
+        padding: 0 16px;
+        }
+}
