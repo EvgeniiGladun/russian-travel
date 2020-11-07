@@ -1,0 +1,12 @@
+.cover {
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    margin: 92px auto;
+    max-width: 1184px;
+}
+
+@media (max-widht:320px) {
+    .cover {
+        margin: 74px auto;
+        max-width: 1184px;
+    }
+}

@@ -1,0 +1,18 @@
+.intro {
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    max-width: 984px;
+    margin: 92px auto 0 auto;
+}
+
+@media (max-width:1024px) {
+    .intro {
+        max-width: 928px;
+        padding: 0 48px;
+        }
+}
+
+@media (max-width:768px) {
+    .intro {
+        padding: 0 24px;
+        }
+}

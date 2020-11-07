@@ -1,0 +1,31 @@
+.footer__copyright {
+    color: #fff;
+    align-self: center;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  
+  @media (max-width: 768px) {
+    .footer__copyright {
+      align-self: flex-start;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 16px;
+      margin-top: 48px;
+      margin-left: 16px;
+      margin-bottom: 24px;
+    }
+  }
+  
+  @media (max-width: 320px) {
+    .footer__copyright {
+      align-self: flex-start;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 14px;
+      margin-top: 48px;
+      margin-left: 16px;
+      margin-bottom: 24px;
+    }
+  }

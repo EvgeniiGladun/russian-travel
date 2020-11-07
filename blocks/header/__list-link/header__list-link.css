@@ -1,0 +1,19 @@
+.header__list-link {
+    margin: 18px 18px 0 0;
+}
+
+.header__list-link:last-of-type {
+    margin-right: 0;
+    }
+
+    @media (max-width:320px) {
+        .header__list-link {
+            font-size: 18px;
+            line-height: 20px;
+            margin: 14px 18px 0 0;
+        }
+        
+        .header__list-link:last-of-type {
+            margin-right: 0;
+            }
+    }

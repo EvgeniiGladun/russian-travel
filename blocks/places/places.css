@@ -1,0 +1,29 @@
+.places {
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    max-width: 984px;
+    margin: 92px auto 0 auto;
+}
+
+@media (max-width:1024px) {
+    .places {
+        font-family: Inter, Arial, Helvetica, sans-serif;
+        max-width: 928px;
+        margin: 92px auto 0 auto;
+    }
+  }
+  
+  @media (max-width:768px) {
+    .places {
+        font-family: Inter, Arial, Helvetica, sans-serif;
+        max-width: 720px;
+        margin: 88px auto 0 auto;
+    }
+  }
+
+  @media (max-width:320px) {
+    .places {
+        font-family: Inter, Arial, Helvetica, sans-serif;
+        max-width: 320px;
+        margin: 56px auto 0 auto;
+    }
+  }
