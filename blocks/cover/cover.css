@@ -1,12 +1,16 @@
 .cover {
     font-family: Inter, Arial, Helvetica, sans-serif;
     margin: 92px auto;
-    max-width: 1184px;
+    background-image: url(https://www.karriere.de/images/25750726-3/aufbruchstimmung.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: stretch;
 }
 
 @media (max-width:320px) {
     .cover {
-        margin: 74px auto;
-        max-width: 100%;
+        margin-top: 66px;
     }
 }

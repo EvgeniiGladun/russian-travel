@@ -2,30 +2,12 @@
     font-weight: 900;
     font-size: 54px;
     line-height: 58px;
-    margin: 42px 0 0 0;
-    max-width: 690px;
-}
-
-@media (max-width:1024px) {
-    .intro__title {
-        font-size: 54px;
-        line-height: 58px;
-        max-width: 690px;
-        }
-}
-
-@media (max-width:768px) {
-    .intro__title {
-        font-size: 54px;
-        line-height: 58px;
-        max-width: 720px;
-        }
+    margin: 0;
 }
 
 @media (max-width:320px) {
     .intro__title {
         font-size: 32px;
         line-height: 35px;
-        max-width: 288px;
         }
 }

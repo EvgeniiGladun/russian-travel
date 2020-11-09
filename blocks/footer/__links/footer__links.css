@@ -4,11 +4,9 @@
     padding: 0;
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 737px) {
     .footer__links {
-      margin: 0;
       flex-direction: column;
-      max-width: 186px;
-      margin-left: 16px;
+      margin: 0;
     }
   }

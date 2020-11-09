@@ -18,5 +18,11 @@ margin-left: 0;
 
 .header__lang-link:hover {
     opacity: .6;
-    box-shadow: 0 1px 0 0 white;
   }
+
+  @media (max-width:320px) {
+    .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+        }
+}

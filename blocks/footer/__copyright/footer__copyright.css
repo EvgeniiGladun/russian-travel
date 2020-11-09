@@ -4,28 +4,14 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
+    margin: 0;
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 737px) {
     .footer__copyright {
-      align-self: flex-start;
-      font-weight: 400;
-      font-size: 14px;
-      line-height: 16px;
-      margin-top: 48px;
-      margin-left: 16px;
-      margin-bottom: 24px;
-    }
-  }
-  
-  @media (max-width: 320px) {
-    .footer__copyright {
-      align-self: flex-start;
-      font-weight: 400;
-      font-size: 14px;
+      align-self: unset;
+      flex-direction: column;
       line-height: 14px;
       margin-top: 48px;
-      margin-left: 16px;
-      margin-bottom: 24px;
     }
   }
