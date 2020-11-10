@@ -2,3 +2,9 @@
     grid-area: website;
     align-self: flex-end;
 }
+
+@media (max-width:606px) {
+      .place__website {
+        display: none;
+      }
+    }

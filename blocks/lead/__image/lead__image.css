@@ -6,8 +6,6 @@
 
 @media (max-width:320px) {
     .lead__image {
-        display: flex;
         margin: 40px auto 0 auto;
-        max-width: 100%;
     }
 }
