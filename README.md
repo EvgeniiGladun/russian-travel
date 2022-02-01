@@ -6,7 +6,7 @@
 * Спасибо!
 
 
-**Проект доступен по ссылке - [Путешествие по России](https://ev9enn.github.io/russian-travel/)**
+**Проект доступен по ссылке - [Путешествие по России](https://EvgeniiGladun.github.io/russian-travel/)**
 
 
 **О чем проект?**
